@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">18SOECE11040</string>
+    <string name="title">About Us</string>
+    <string name="enrollment">18SOECE11040</string>
+    <string name="f_name">Sanket</string>
+    <string name="m_name">Dineshbhai</string>
+    <string name="l_name">Panasuriya</string>
+    <string name="email">spanasuriya892@rku.ac.in</string>
+    <string name="password">123456</string>
+    <string name="age">18</string>
+    <string name="gender">Male</string>
+    <string name="city">Surat</string>
+
+</resources>
