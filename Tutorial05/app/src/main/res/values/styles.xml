@@ -10,4 +10,15 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+
+    <string-array name="CityName">
+        <item>Select City</item>
+        <item>Junagadh</item>
+        <item>Rajkot</item>
+        <item>Amreli</item>
+        <item>Bhavanagar</item>
+        <item>Surat</item>
+        <item>Ahemdabad</item>
+    </string-array>
+
 </resources>

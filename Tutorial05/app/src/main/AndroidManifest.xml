@@ -9,13 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Registration"></activity>
-        <activity
-            android:name=".Welcome"
-            android:parentActivityName=".Registration" />
-        <activity
-            android:name=".Splash"
-            android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".Registration" android:label="@string/Registration" android:parentActivityName=".Splash"></activity>
+        <activity android:name=".Welcome" android:label="@string/Registration" android:parentActivityName=".Registration" />
+        <activity android:name=".Splash" android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

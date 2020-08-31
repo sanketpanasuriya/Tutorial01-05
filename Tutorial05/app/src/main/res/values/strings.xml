@@ -1,11 +1,20 @@
 <resources>
     <string name="app_name">Tutorial05</string>
-    <string name="Login">Login</string>
-    <string name="user_name">User Name :</string>
+    <string name="Registration">Registration Form</string>
+    <string name="user_name">UserName :</string>
+    <string name="first_name">First Name :</string>
+    <string name="last_name">Last Name :</string>
     <string name="password">Password :</string>
+    <string name="City">City :</string>
+    <string name="Gender">Gender :</string>
+    <string name="Status">Status :</string>
+    <string name="Branch">Branch :</string>
+    <string name="BranchCEIT">Branch CE/IT</string>
     <string name="btnLogin">Login</string>
-    <string name="enter_username">Enter Username</string>
-    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_username">Enter email as Username</string>
+    <string name="enter_FirstName">Enter First name</string>
+    <string name="enter_LastName">Enter Last name</string>
+    <string name="enter_password">Enter password</string>
     <string name="welcome">Welcome</string>
 
 </resources>
